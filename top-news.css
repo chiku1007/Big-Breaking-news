@@ -1,0 +1,27 @@
+
+.main-content{
+    background-color: rgb(135, 135, 135);
+    display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  padding: 20px;
+    text-align: center;
+}
+
+.news-box{
+    width: 40%;
+    border: 2px solid black;
+    background-color: white;
+    color: black;height: fit-content;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px;
+    
+
+}
+.news-box img{
+    width: 100%;
+}
+p{
+    font-weight: bold;
+}

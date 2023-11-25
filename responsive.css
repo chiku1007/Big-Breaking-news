@@ -1,0 +1,25 @@
+@media screen and (max-width: 600px) {
+    .navbar a:not(.logo) {
+      display: none;
+    }
+  
+    .navbar .icon {
+      display: block;
+    }
+  
+    .navbar.responsive a:not(.icon) {
+      float: none;
+      display: block;
+      text-align: left;
+    }
+
+   
+    /* latest-news css */
+  
+  
+  
+    
+
+  }
+
+  
